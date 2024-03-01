@@ -1,0 +1,87 @@
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="Viewport" content="width=device-width, initial-scale=1.0">
+    <title>BOOKTUBER</title>
+    <style>
+        .container{
+            width: 60%;
+            margin: 10, auto;
+            padding: 20px;
+            background-color: rgb(13, 232, 240);
+            border: 1px, solid #c20707;
+            border-radius: 25px;
+        }
+        .container2{
+            width: 55%;
+            margin: 10, auto;
+            padding: 20px;
+            background-color: rgb(240, 76, 109);
+            border: 1px, solid #06e74a;
+            border-radius: 75px;
+        }
+        .title_container{
+            width: 30%;
+            margin: 10, auto;
+            padding: 20px;
+            background-color: #06e74a;
+            border: 30px, solid #4381bb;
+            border-radius: 110px;
+        }
+        .title{
+            font-size: 60px;
+            color: rgb(255, 0, 0);
+            margin-bottom: 40px;
+            margin-top: 30px;
+        }
+        .text{
+            font-size: 25px;
+            color: black;
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+
+    </style>
+</head>
+
+<body>
+    <center><div class="title_container">
+        <div class="title">
+            <center><strong>BOOKTUBER</strong></center>
+        </div>
+    </div>
+    </center>
+    <div class="container2">
+        <div class="text">
+            <p><em>Esta es la estructura del booktuber que yo he seguido para hacer del mío.</em></p>
+        </div>
+    </div>
+    
+    <div class="container">
+        <div class="text">
+            <ul>
+                <li><em>Presentación</em></li>
+                <ol>
+                    <li>Me presento</li>
+                    <li>Título</li>
+                    <li>Autores e Ilustradores</li>
+                </ol>
+
+                <li><em>Desarrollo</em></li>
+                <ol>
+                    <li>Tema</li>
+                    <li>Personajes</li>
+                    <li>Sentimientos</li>
+                    <li>Opinión</li>
+                </ol>
+
+                <li><em>Despedida</em></li>
+                <ol>
+                    <li>Conclusión</li>
+                    <li>Despedida</li>
+                </ol>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
