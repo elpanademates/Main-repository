@@ -88,5 +88,4 @@ entry.place(x=70, y=70)
 continue_button = tk.Button(WIN, text="Continue", command=continue_button_click)
 
 
-if __name__ == "__main__":
-    WIN.mainloop()
+WIN.mainloop()
